@@ -1,3 +1,7 @@
+/*
+ * Sum all arguments given, considering argv are strings
+ */
+
 var arguments = process.argv;
 var sum = 0;
 
