@@ -1,6 +1,4 @@
-/*
- * Sum all arguments given, considering argv are strings
- */
+// Sum all given arguments (they're strings by default)
 
 var arguments = process.argv;
 var sum = 0;
